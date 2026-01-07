@@ -1,0 +1,11 @@
+# Legacy Version
+
+This is the original version of the water consumption billing project created for Programming I.
+
+It is preserved exactly as it was originally written, including:
+- all logic inside `main()`
+- minimal modularization
+- early attempts at input validation
+- initial coding style and structure
+
+This version is kept for historical and academic purposes, and to contrast with the refactored version.
