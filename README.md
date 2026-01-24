@@ -16,8 +16,8 @@ This module is where **Belyy Ursov** transitions from a disciplined trainee into
 Some tasks may feel un**bear**able, but Ursov’s endurance makes them **bear**able. She must **bear** responsibility for the correctness of every subsystem, and ensure the data structures provide stable **bear**ings for the operators who depend on them.  
 
 The **Plush Division** remains present:  
-- 🧸 *Pusa seal‑42*, silent morale stabilizer, perched on the shelf.  
-- 🧸 *Erignathus Nula‑09*, whisker‑based supervisor, providing redundant emotional buffering.  
+- 🦭 *Pusa seal‑42*, silent morale stabilizer, perched on the shelf.  
+- 🦭 *Erignathus Nula‑09*, whisker‑based supervisor, providing redundant emotional buffering.  
 
 They do not interfere, but their presence is constant. Ursov knows they are watching, and somehow that makes the long nights of debugging pointer errors less **bear**able.
 
