@@ -16,8 +16,8 @@ This module is where **Belyy Ursov** transitions from a disciplined trainee into
 Some tasks may feel un**bear**able, but Ursov’s endurance makes them **bear**able. She must **bear** responsibility for the correctness of every subsystem, and ensure the data structures provide stable **bear**ings for the operators who depend on them.  
 
 The **Plush Division** remains present:  
-- 🦭 *Pusa seal‑42*, silent morale stabilizer, perched on the shelf.  
-- 🦭 *Erignathus Nula‑09*, whisker‑based supervisor, providing redundant emotional buffering.  
+- 🦭 *Pusa seal‑42*, silent morale stabilizer, perched on the shelf. Codename: Oficial Pusa.
+- 🦭 *Erignathus Nula‑09*, whisker‑based supervisor, providing redundant emotional buffering. Codename: Sargeant Erig Nula.
 
 They do not interfere, but their presence is constant. Ursov knows they are watching, and somehow that makes the long nights of debugging pointer errors less **bear**able.
 
@@ -42,7 +42,7 @@ They do not interfere, but their presence is constant. Ursov knows they are watc
 15. Polar Simulation Engine — Integrate recursion, dynamic memory, and modular design into a unified system.  
 16. Mission Scheduler — Use queues and stacks to simulate task scheduling.  
 17. Resource Optimizer — Apply algorithms to balance workloads across modules.  
-18. Final Boss: Central Polar Operations Simulator — A complete system combining advanced data structures, algorithms, and modular architecture.
+18. Central Polar Operations Simulator — A complete system combining advanced data structures, algorithms, and modular architecture.
 
 ---
 
