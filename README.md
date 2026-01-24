@@ -13,13 +13,13 @@ After completing the foundational training in **cppbasic** and the mid‑level p
 
 This module is where **Belyy Ursov** transitions from a disciplined trainee into the **Primary Operator** of the facility’s systems. No longer limited to simple loops or mid‑level data handling, Ursov now designs and optimizes entire subsystems. She works with dynamic memory, linked structures, recursive algorithms, and modular architectures — the kind of programming that keeps the base running when conditions outside drop to −40°C and machinery inside was never designed for paws.  
 
-Some tasks may feel **unbearable**, but Ursov’s endurance makes them **bearable**. She must **bear** responsibility for the correctness of every subsystem, and ensure the data structures provide stable **bearings** for the operators who depend on them.  
+Some tasks may feel un**bear**able, but Ursov’s endurance makes them **bear**able. She must **bear** responsibility for the correctness of every subsystem, and ensure the data structures provide stable **bear**ings for the operators who depend on them.  
 
 The **Plush Division** remains present:  
 - 🧸 *Pusa seal‑42*, silent morale stabilizer, perched on the shelf.  
 - 🧸 *Erignathus Nula‑09*, whisker‑based supervisor, providing redundant emotional buffering.  
 
-They do not interfere, but their presence is constant. Ursov knows they are watching, and somehow that makes the long nights of debugging pointer errors less **bearable**.
+They do not interfere, but their presence is constant. Ursov knows they are watching, and somehow that makes the long nights of debugging pointer errors less **bear**able.
 
 ---
 
